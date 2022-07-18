@@ -10,7 +10,7 @@ I've been programming for 12 years. Started with Q-Basic in 2010, then V-Basic, 
 * ✉️  You can contact me at [yashpand3y@gmail.com](mailto:yashpand3y@gmail.com)
 * 🧠  I'm learning to take a break (just graduated!)
 * 🤝  I'm open to collaborating on AI/ML projects, Game Projects, and Data Science projects
-* ⚡  There is nothing I am not willing to learn, it is just a matter of time. I fence Epee, played soccer for 6+ years at school, and have developed a "can-do" attitude over time
+* ⚡  There is nothing I am not willing to learn, it is just a matter of time. I fence Epee for 5 years for Drexel, played soccer for 6+ years at school, and have developed a "can-do" attitude over time
 
 ### Skills
 

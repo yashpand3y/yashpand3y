@@ -8,7 +8,7 @@ I've been programming for 12 years. Started with Q-Basic in 2010, then V-Basic, 
 
 * 🌍  I'm based in Philadelphia, PA
 * ✉️  You can contact me at [yashpand3y@gmail.com](mailto:yashpand3y@gmail.com)
-* 🧠  I'm learning to take a break (just graduated!)
+* 🧠  I've learnt enough to know that there's only work to do
 * 🤝  I'm open to collaborating on AI/ML projects, Game Projects, and Data Science projects
 * ⚡  There is nothing I am not willing to learn, it is just a matter of time. I fence Epee for 5 years for Drexel, played soccer for 6+ years at school, and have developed a "can-do" attitude over time
 
